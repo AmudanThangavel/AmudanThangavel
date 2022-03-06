@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmudanThangavel
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding and currently I am web develop leaner
 - 🌱 I’m currently learning Robotic Operating System and Deep Learning
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach me in Linked In and Twitter 
